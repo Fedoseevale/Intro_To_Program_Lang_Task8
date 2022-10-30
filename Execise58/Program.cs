@@ -57,7 +57,7 @@ Console.WriteLine("Имеется матрица 1: ");
 int[,] array2DNumber1 = CreateMatrixRndInt(3, 4, 1, 10);
 PrintMatrix(array2DNumber1);
 Console.WriteLine("Имеется матрица 2: ");
-int[,] array2DNumber2 = CreateMatrixRndInt(5, 5, 1, 10);
+int[,] array2DNumber2 = CreateMatrixRndInt(4, 5, 1, 10);
 PrintMatrix(array2DNumber2);
 Console.WriteLine();
 
